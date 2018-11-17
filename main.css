@@ -108,6 +108,7 @@ ul {
   min-width: 48px;
   color: #616161;
   min-height: 48px;
+  padding:1.5em;              /*udacity*/
 }
 
 .nav a:hover {
@@ -201,6 +202,7 @@ main {
 .top-news__item a {
   text-decoration: none;
   color: #666;
+  padding: 1.5em inherit;         /*udacity*/
 }
 
 .top-news__item a:hover,
@@ -341,6 +343,7 @@ main {
 .snippet__title a {
   text-decoration: none;
   color: #666;
+  padding: 1.5em inherit;         /*udacity*/
 }
 
 .snippet__title a:hover,
@@ -369,4 +372,5 @@ footer li {
 footer a {
   text-decoration: none;
   color: #333;
+  padding: 1.5em inherit;         /*udacity*/
 }
